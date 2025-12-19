@@ -20,6 +20,13 @@ env/
 ehthumbs.db
 Thumbs.db
 
+# Windows specific files
+*.bat
+*.cmd
+*.exe
+*.msi
+*.dll
+
 # IDE files
 .vscode/
 .idea/
@@ -27,3 +34,6 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
+
+# Log files
+*.log
