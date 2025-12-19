@@ -54,6 +54,8 @@
    python start_production.py
    ```
 
+> 注意：在Windows系统上，可以使用`start_production.bat`脚本启动生产环境。该脚本仅在本地开发环境中提供，不会包含在代码仓库中。
+
 ## API接口
 
 - `GET /api/v1/health` - 健康检查
